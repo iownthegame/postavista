@@ -12,18 +12,34 @@ PostaVista is an AI-powered postcard management app that lets users search, uplo
 
 ## Tech Stack
 
-TBD
+### Frontend
+- **Framework**: React with TypeScript
+- **UI Library**: Material-UI (MUI)
+- **File Upload**: react-dropzone
+
+### Frontend
+- TBD
 
 ## Getting Started
 
-### Prerequisites
-TBD
+### Frontend Development
 
-### Installation
-TBD
+#### Prerequisites
+- Node.js (v14 or higher)
 
-## Usage
-TBD
+#### Installation
+- Install frontend dependencies:
+  ```bash
+  cd client
+  npm install
+  ```
+
+#### Running Locally
+- To run the frontend locally on http://localhost:5173:
+  ```bash
+  cd client
+  npm run dev
+  ```
 
 ## License
 MIT License
